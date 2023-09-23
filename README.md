@@ -12,6 +12,7 @@ You can find the instructions or documentation at the following link: https://in
 }
 ```
 FAISS: https://github.com/facebookresearch/faiss
+
 LangChain: https://python.langchain.com/docs/get_started/introduction
 
 # Set up
@@ -19,6 +20,8 @@ To set up, first create your virtual environment and install all the requirement
 
 # Use Your Pdf
 You can specify your desired PDF file in the main.py on line 11.
+
+# Visual
 
 ![ask](assets/ask.png)
 
